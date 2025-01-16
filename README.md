@@ -16,8 +16,8 @@ The dataset used in this project contains the following columns:
 - **Height(m)**
 - **max_BPM**
 - **avg_BPM**
-- *resting_Bpm**
-- ** session Duration**
+- **resting_Bpm**
+- **session Duration**
 - **Calories Burned**
 - **Workout Type** 
 - **Intensity**
